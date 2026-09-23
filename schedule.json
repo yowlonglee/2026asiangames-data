@@ -1,0 +1,103 @@
+{
+  "programs": [
+    {
+      "title": "開幕典禮",
+      "date": "2026-09-19",
+      "startTime": "16:30",
+      "endTime": "19:00",
+      "texts": []
+    },
+    {
+      "title": "桌球男子團體賽",
+      "date": "2026-09-20",
+      "startTime": "11:20",
+      "endTime": "13:50",
+      "texts": [
+        "中華 vs. 尼泊爾"
+      ]
+    },
+    {
+      "title": "桌球女子團體賽",
+      "date": "2026-09-20",
+      "startTime": "14:50",
+      "endTime": "17:40",
+      "texts": [
+        "中華 vs. 北韓"
+      ]
+    },
+    {
+      "title": "排球女子八強賽",
+      "date": "2026-09-20",
+      "startTime": "18:10",
+      "endTime": "20:30",
+      "texts": [
+        "日本 vs. 中華"
+      ]
+    },
+    {
+      "title": "籃球男子金牌戰",
+      "date": "2026-09-21",
+      "startTime": "09:00",
+      "endTime": "10:59",
+      "texts": [
+        "韓國 vs. 日本",
+        "(D-LIVE)"
+      ]
+    },
+    {
+      "title": "籃球女子預賽",
+      "date": "2026-09-21",
+      "startTime": "14:50",
+      "endTime": "17:20",
+      "texts": [
+        "馬來西亞 vs. 中華"
+      ]
+    },
+    {
+      "title": "棒球",
+      "date": "2026-09-21",
+      "startTime": "17:20",
+      "endTime": "20:30",
+      "texts": [
+        "中華 vs. 韓國"
+      ]
+    },
+    {
+      "title": "足球女子預賽",
+      "date": "2026-09-21",
+      "startTime": "22:05",
+      "endTime": "23:59",
+      "texts": [
+        "日本 vs. 中華",
+        "(D-LIVE)"
+      ]
+    },
+    {
+      "title": "棒球B組預賽",
+      "date": "2026-09-22",
+      "startTime": "10:50",
+      "endTime": "14:00",
+      "texts": [
+        "泰國 vs. 中華"
+      ]
+    },
+    {
+      "title": "籃球女子C組預賽",
+      "date": "2026-09-22",
+      "startTime": "15:00",
+      "endTime": "17:20",
+      "texts": [
+        "南韓 vs. 中華"
+      ]
+    },
+    {
+      "title": "排球女子金牌戰",
+      "date": "2026-09-22",
+      "startTime": "18:20",
+      "endTime": "20:00",
+      "texts": [
+        "中國 vs. 日本"
+      ]
+    }
+  ]
+}
