@@ -93,12 +93,40 @@
     {
       "title": "排球女子金牌戰",
       "date": "2026-09-22",
-      "startTime": "18:20",
-      "endTime": "20:00",
+      "startTime": "22:05",
+      "endTime": "23:59",
       "texts": [
-        "中國 vs. 日本"
+        "中國 vs. 日本",
+        "(D-LIVE)"
+      ]
+    },
+    {
+      "title": "羽球女子團體賽四強",
+      "date": "2026-09-23",
+      "startTime": "08:25",
+      "endTime": "10:30",
+      "texts": [
+        "日本 vs. 韓國"
+      ]
+    },
+    {
+      "title": "競技體操男子團體決賽",
+      "date": "2026-09-23",
+      "startTime": "15:30",
+      "endTime": "17:20",
+      "texts": [
+        "(D-LIVE)"
+      ]
+    },
+    {
+      "title": "棒球B組預賽",
+      "date": "2026-09-23",
+      "startTime": "17:20",
+      "endTime": "20:30",
+      "texts": [
+        "香港 vs. 中華"
       ]
     }
   ],
-  "updatedAt": "2026-09-23T06:44:22.330Z"
+  "updatedAt": "2026-09-23T08:48:05.238Z"
 }
