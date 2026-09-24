@@ -43,13 +43,6 @@
   "bronze": [
     {
       "medalists": [
-        "XXX"
-      ],
-      "sport": "XX",
-      "event": "XX"
-    },
-    {
-      "medalists": [
         "林昀儒",
         "馮翊新",
         "郭冠宏",
@@ -129,5 +122,5 @@
       "event": "女子個人形"
     }
   ],
-  "updatedAt": "2026-09-24T03:47:04.378Z"
+  "updatedAt": "2026-09-24T03:47:51.081Z"
 }
