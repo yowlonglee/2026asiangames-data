@@ -180,7 +180,37 @@
         "郭婞淳出賽",
         "(D-LIVE)"
       ]
+    },
+    {
+      "title": "女子壘球 香港 vs. 中華",
+      "date": "2026-09-26",
+      "startTime": "09:55",
+      "endTime": "12:00",
+      "texts": []
+    },
+    {
+      "title": "女子足球八強 北韓 vs. 中華",
+      "date": "2026-09-26",
+      "startTime": "13:00",
+      "endTime": "14:55",
+      "texts": [
+        "(D-LIVE)"
+      ]
+    },
+    {
+      "title": "女子籃球銅牌 中華 vs. 中國",
+      "date": "2026-09-26",
+      "startTime": "14:55",
+      "endTime": "17:20",
+      "texts": []
+    },
+    {
+      "title": "棒球 中華 vs. 日本",
+      "date": "2026-09-26",
+      "startTime": "17:20",
+      "endTime": "20:30",
+      "texts": []
     }
   ],
-  "updatedAt": "2026-09-25T09:05:07.605Z"
+  "updatedAt": "2026-09-25T12:40:43.017Z"
 }
