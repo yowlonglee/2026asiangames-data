@@ -215,7 +215,39 @@
       "startTime": "17:20",
       "endTime": "21:00",
       "texts": []
+    },
+    {
+      "title": "MLB 光芒 vs . 費城人",
+      "date": "2026-09-27",
+      "startTime": "07:00",
+      "endTime": "10:20",
+      "texts": []
+    },
+    {
+      "title": "棒球 中華 vs. 中國",
+      "date": "2026-09-27",
+      "startTime": "10:50",
+      "endTime": "14:00",
+      "texts": [
+        "銅牌戰"
+      ]
+    },
+    {
+      "title": "舉重女子69KG 陳玟卉出賽",
+      "date": "2026-09-27",
+      "startTime": "12:25",
+      "endTime": "14:50",
+      "texts": [
+        "(D-LIVE)"
+      ]
+    },
+    {
+      "title": "棒球金牌戰 韓國 vs. 日本",
+      "date": "2026-09-27",
+      "startTime": "17:20",
+      "endTime": "20:30",
+      "texts": []
     }
   ],
-  "updatedAt": "2026-09-26T12:45:01.639Z"
+  "updatedAt": "2026-09-26T12:58:39.498Z"
 }
